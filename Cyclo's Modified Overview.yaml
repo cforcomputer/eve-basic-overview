@@ -1,0 +1,776 @@
+backgroundOrder:
+- 13
+- 44
+- 11
+- 12
+- 14
+- 9
+- 51
+- 50
+- 52
+- 15
+- 16
+- 10
+- 45
+- 19
+- 18
+- 20
+- 53
+- 21
+- 17
+- 48
+- 49
+backgroundStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 18
+- 19
+- 44
+- 45
+- 48
+- 50
+- 51
+- 52
+- 53
+columnOrder:
+- TAG
+- ICON
+- DISTANCE
+- NAME
+- TYPE
+- VELOCITY
+- TRANSVERSALVELOCITY
+- ALLIANCE
+- CORPORATION
+- SIZE
+- ANGULARVELOCITY
+- MILITIA
+- FACTION
+- RADIALVELOCITY
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 19
+- 18
+- 12
+- 14
+- 15
+- 16
+- 51
+- 9
+- 50
+- 10
+- 45
+- 20
+- 53
+- 21
+- 17
+- 48
+- 49
+flagStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 21
+- 44
+- 45
+- 49
+- 50
+- 51
+- 52
+- 53
+overviewColumns:
+- ALLIANCE
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- TAG
+- TRANSVERSALVELOCITY
+- TYPE
+- VELOCITY
+presets:
+- - pvp
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 15
+        - 16
+    - - groups
+      - - 6
+        - 10
+        - 15
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 90
+        - 237
+        - 310
+        - 324
+        - 358
+        - 366
+        - 380
+        - 381
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 492
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 548
+        - 659
+        - 707
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 839
+        - 863
+        - 864
+        - 883
+        - 893
+        - 894
+        - 897
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 988
+        - 1022
+        - 1201
+        - 1202
+        - 1249
+        - 1275
+        - 1276
+        - 1283
+        - 1305
+        - 1316
+        - 1404
+        - 1406
+        - 1527
+        - 1534
+        - 1538
+        - 1653
+        - 1657
+        - 1876
+- - gtfo
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 6
+        - 7
+        - 8
+        - 9
+        - 97
+        - 299
+        - 319
+        - 335
+        - 361
+        - 365
+        - 470
+        - 519
+        - 545
+        - 903
+        - 988
+        - 1004
+        - 1246
+        - 1249
+        - 1250
+        - 1275
+        - 1276
+- - hunting
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+    - - filteredStates
+      - - 21
+    - - groups
+      - - 6
+        - 15
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 237
+        - 310
+        - 324
+        - 358
+        - 361
+        - 380
+        - 381
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 492
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 897
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 988
+        - 1003
+        - 1012
+        - 1022
+        - 1201
+        - 1202
+        - 1246
+        - 1249
+        - 1250
+        - 1273
+        - 1275
+        - 1276
+        - 1283
+        - 1305
+        - 1527
+        - 1534
+        - 1538
+- - Haulers
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 28
+- - General
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 30
+        - 485
+        - 513
+        - 547
+        - 659
+        - 883
+        - 902
+        - 941
+- - pve
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+    - - groups
+      - - 6
+        - 10
+        - 15
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 90
+        - 180
+        - 185
+        - 237
+        - 286
+        - 287
+        - 306
+        - 310
+        - 324
+        - 337
+        - 358
+        - 361
+        - 366
+        - 380
+        - 381
+        - 383
+        - 419
+        - 420
+        - 435
+        - 463
+        - 479
+        - 485
+        - 492
+        - 494
+        - 495
+        - 496
+        - 513
+        - 517
+        - 520
+        - 522
+        - 523
+        - 527
+        - 533
+        - 534
+        - 540
+        - 541
+        - 543
+        - 547
+        - 548
+        - 550
+        - 551
+        - 552
+        - 553
+        - 554
+        - 555
+        - 556
+        - 557
+        - 558
+        - 559
+        - 560
+        - 561
+        - 562
+        - 563
+        - 564
+        - 565
+        - 566
+        - 567
+        - 568
+        - 569
+        - 570
+        - 571
+        - 572
+        - 573
+        - 574
+        - 575
+        - 576
+        - 577
+        - 578
+        - 579
+        - 580
+        - 581
+        - 582
+        - 583
+        - 584
+        - 593
+        - 594
+        - 595
+        - 596
+        - 597
+        - 602
+        - 603
+        - 604
+        - 605
+        - 606
+        - 611
+        - 612
+        - 613
+        - 614
+        - 615
+        - 620
+        - 621
+        - 622
+        - 623
+        - 624
+        - 629
+        - 630
+        - 631
+        - 632
+        - 633
+        - 659
+        - 665
+        - 666
+        - 667
+        - 668
+        - 669
+        - 670
+        - 671
+        - 672
+        - 673
+        - 674
+        - 675
+        - 676
+        - 677
+        - 678
+        - 679
+        - 680
+        - 681
+        - 682
+        - 683
+        - 684
+        - 685
+        - 686
+        - 687
+        - 688
+        - 689
+        - 690
+        - 691
+        - 692
+        - 693
+        - 694
+        - 695
+        - 696
+        - 697
+        - 698
+        - 699
+        - 700
+        - 701
+        - 702
+        - 703
+        - 704
+        - 705
+        - 706
+        - 755
+        - 756
+        - 757
+        - 758
+        - 759
+        - 760
+        - 761
+        - 789
+        - 790
+        - 791
+        - 792
+        - 793
+        - 794
+        - 795
+        - 796
+        - 797
+        - 798
+        - 799
+        - 800
+        - 801
+        - 802
+        - 803
+        - 804
+        - 805
+        - 806
+        - 807
+        - 808
+        - 809
+        - 810
+        - 811
+        - 812
+        - 813
+        - 814
+        - 816
+        - 817
+        - 818
+        - 819
+        - 820
+        - 821
+        - 822
+        - 823
+        - 824
+        - 825
+        - 826
+        - 827
+        - 828
+        - 829
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 843
+        - 844
+        - 845
+        - 846
+        - 847
+        - 848
+        - 849
+        - 850
+        - 851
+        - 852
+        - 861
+        - 863
+        - 864
+        - 865
+        - 866
+        - 867
+        - 868
+        - 875
+        - 883
+        - 893
+        - 894
+        - 897
+        - 898
+        - 900
+        - 902
+        - 906
+        - 922
+        - 924
+        - 925
+        - 927
+        - 941
+        - 952
+        - 959
+        - 960
+        - 961
+        - 963
+        - 982
+        - 983
+        - 984
+        - 985
+        - 986
+        - 987
+        - 988
+        - 1003
+        - 1006
+        - 1007
+        - 1012
+        - 1022
+        - 1051
+        - 1052
+        - 1053
+        - 1054
+        - 1056
+        - 1174
+        - 1201
+        - 1202
+        - 1207
+        - 1250
+        - 1252
+        - 1255
+        - 1259
+        - 1262
+        - 1265
+        - 1273
+        - 1276
+        - 1283
+        - 1285
+        - 1286
+        - 1287
+        - 1288
+        - 1305
+        - 1307
+        - 1310
+        - 1452
+        - 1453
+        - 1454
+        - 1455
+        - 1465
+        - 1527
+        - 1534
+        - 1538
+        - 1566
+        - 1567
+        - 1568
+- - drones
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 10
+        - 20
+        - 21
+        - 36
+        - 37
+        - 45
+        - 49
+    - - groups
+      - - 6
+        - 100
+        - 544
+        - 549
+        - 639
+        - 640
+        - 641
+        - 1023
+        - 1537
+        - 1652
+        - 1653
+shipLabelOrder:
+- pilot name
+- corporation
+- alliance
+- ship name
+- ship type
+- null
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - '['
+    - - state
+      - 0
+    - - type
+      - null
+- - alliance
+  - - - post
+      - </color></fontsize>
+    - - pre
+      - <color=0xFFCD661D><fontsize=12>
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - ']</color>'
+    - - pre
+      - <color=white>[
+    - - state
+      - 0
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - </fontsize></color>
+    - - pre
+      - <fontsize=12><color=yellow>
+    - - state
+      - 0
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - ''''
+    - - pre
+      - ''''
+    - - state
+      - 0
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - </fontsize></color>
+    - - pre
+      - <fontsize=12><color=lime>
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - true
+- - background_44
+  - true
+- - background_50
+  - true
+- - background_51
+  - true
+- - background_52
+  - true
+- - background_53
+  - false
+- - background_9
+  - true
+- - flag_13
+  - true
+- - flag_50
+  - true
+- - flag_51
+  - true
+- - flag_52
+  - true
+- - flag_53
+  - false
+- - flag_9
+  - true
+stateColorsNameList:
+- - background_51
+  - yellow
+- - background_53
+  - black
+- - background_9
+  - yellow
+- - flag_53
+  - white
+tabSetup:
+- - 0
+  - - - bracket
+      - null
+    - - name
+      - <fontsize=12><color=red><b>  <u>|Hunting|</u>  <\b><\color><\fontsize>
+    - - overview
+      - hunting
+- - 1
+  - - - bracket
+      - defaultpvp
+    - - name
+      - <fontsize=12><color=orange><b>  <u>|PVP|</u>  <\b><\color><\fontsize>
+    - - overview
+      - pvp
+    - - showAll
+      - true
+    - - showNone
+      - false
+    - - showSpecials
+      - false
+- - 2
+  - - - bracket
+      - null
+    - - name
+      - <fontsize=12><color=white><b>  <u>|Drones|</u>  <\b><\color><\fontsize>
+    - - overview
+      - drones
+- - 3
+  - - - bracket
+      - null
+    - - name
+      - <fontsize=12><color=lime><b>  <u>|PVE|</u>  <\b><\color><\fontsize>
+    - - overview
+      - pve
+- - 4
+  - - - bracket
+      - null
+    - - name
+      - <fontsize=12><color=purple><b>  <u>|GTFO|</u>  <\b><\color><\fontsize>
+    - - overview
+      - gtfo
+- - 5
+  - - - bracket
+      - null
+    - - name
+      - Haulers
+    - - overview
+      - Haulers
+- - 6
+  - - - bracket
+      - null
+    - - name
+      - CaPs
+    - - overview
+      - General
+userSettings:
+- - showBiggestDamageDealers
+  - false
+- - targetCrosshair
+  - false
